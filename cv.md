@@ -2,7 +2,7 @@
 
 ## Frontend Developer
 
-![photo](../photo1.jpg "Пейзаж с горами")
+![photo](photo1.jpg "Пейзаж с горами")
 
 ### Contact information:
 
