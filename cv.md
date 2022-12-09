@@ -12,7 +12,7 @@
 - E-mail: verbovskaya.freelance@gmail.com
 - Telegram: [@maryna_zaitseva](адрес "https://t.me/maryna_zaitseva")
 - Linkedn: [@maryna_zaitseva](адрес "https://t.me/maryna_zaitseva")
-- Upwork: [](адрес "https://www.upwork.com/freelancers/~0151acd6942c4049d2")
+- Upwork: [](адрес "[https://www.upwork.com/freelancers/~0151acd6942c4049d2](https://www.upwork.com/freelancers/~0151acd6942c4049d2)")
 
 ### About myself:
 
