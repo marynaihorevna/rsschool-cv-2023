@@ -100,7 +100,7 @@ a:hover {
 }
 /*first screen*/
 .intro {
-   background: url(../img/firstscreen.jpg) left;
+   background: url(../firstscreen.jpg) left;
 }
 .main {
    display: flex;
